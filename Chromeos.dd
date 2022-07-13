@@ -40,7 +40,7 @@ STRING exit
 ENTER
 STRING shell
 ENTER
-STRING sudo hostname TransChromebook
+STRING sudo hostname TransChromebook && STRING echo sudo hostname TransChromebook>>~/.bashrc
 ENTER
 DELAY 100 
 STRING exit
