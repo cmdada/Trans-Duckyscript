@@ -20,7 +20,7 @@ DELAY 300
 STRING transgender
 ENTER
 DELAY 300
-STRING echo ~/.bashrc neofetch='hyfetch'
+STRING echo ~/.bashrc alias neofetch='hyfetch'
 ENTER
 DELAY 600
 STRING clear && hyfetch
