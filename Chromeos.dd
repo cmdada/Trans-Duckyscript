@@ -40,3 +40,10 @@ STRING exit
 ENTER
 STRING shell
 ENTER
+STRING sudo hostname TransChromebook
+ENTER
+DELAY 100 
+STRING exit
+ENTER
+STRING shell
+ENTER
