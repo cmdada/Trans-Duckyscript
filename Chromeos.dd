@@ -29,4 +29,7 @@ CTRL ALT T
 DELAY 1000
 STRING shell
 ENTER
+DELAY 1000
 STRING neofetch
+ENTER
+STRING echo neofetch>>~/.bashrc
