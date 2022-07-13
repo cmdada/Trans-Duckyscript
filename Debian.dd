@@ -22,3 +22,4 @@ ENTER
 DELAY 300
 STRING clear && hyfetch
 ENTER
+STRING echo ~/.bashrc neofetch='hyfetch'
