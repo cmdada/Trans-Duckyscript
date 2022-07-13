@@ -1,6 +1,6 @@
 REM Author : cmd
 REM This assumes sudo doesnt require password
-CTRL ALT F4
+CTRL ALT T
 DELAY 100
 STRING sudo apt update && sudo apt install python-pip3 -y
 ENTER
