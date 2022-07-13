@@ -1,0 +1,20 @@
+REM Author : cmd ASSUMES DESKTOP ENVIRONMENT
+CTRL T
+DELAY 1000
+STRING python -m pip install --upgrade pip
+ENTER
+DELAY 5000
+STRING pip install hyfetch
+ENTER
+DELAY 2000
+STRING hyfetch
+ENTER
+DELAY 300
+STRING 8bit
+ENTER
+DELAY 300
+STRING transgender
+ENTER
+DELAY 300
+STRING clear && hyfetch
+ENTER
