@@ -25,7 +25,8 @@ DELAY 200
 STRING clear && hyfetch
 ENTER
 DELAY 1000
-CTRL ALT T
+STRING exit
+ENTER
 DELAY 1000
 STRING shell
 ENTER
@@ -35,3 +36,6 @@ ENTER
 DELAY 300
 STRING echo neofetch>>~/.bashrc
 ENTER
+STRING exit
+ENTER
+STRING shell
