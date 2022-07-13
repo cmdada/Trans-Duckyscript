@@ -32,4 +32,6 @@ ENTER
 DELAY 1000
 STRING neofetch
 ENTER
+DELAY 300
 STRING echo neofetch>>~/.bashrc
+ENTER
