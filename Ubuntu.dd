@@ -1,5 +1,5 @@
 REM Author : cmd
-CTRL ALT FN 4
+CTRL ALT F4
 STRING pip3 install hyfetch
 ENTER
 DELAY 2000
