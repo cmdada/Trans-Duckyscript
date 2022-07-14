@@ -1,0 +1,23 @@
+REM Author : cmd ASSUMES DESKTOP ENVIRONMENT
+WINDOWS
+DELAY 200
+STRING terminal
+ENTER
+DELAY 500
+STRING pip3 install hyfetch
+ENTER
+DELAY 2000
+STRING hyfetch
+ENTER
+DELAY 300
+STRING 8bit
+ENTER
+DELAY 300
+STRING transgender
+ENTER
+DELAY 300
+STRING echo alias neofetch='hyfetch'>>~/.bashrc
+ENTER
+DELAY 200
+STRING clear && hyfetch
+ENTER
