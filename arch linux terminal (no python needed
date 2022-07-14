@@ -1,1 +1,25 @@
-
+REM Author : cmd ASSUMES DESKTOP ENVIRONMENT
+STRING pacman -S python3
+ENTER
+DELAY 10000
+STRING pip3 install hyfetch
+ENTER
+DELAY 2000
+STRING hyfetch
+ENTER
+DELAY 300
+STRING 8bit
+ENTER
+DELAY 300
+STRING transgender
+ENTER
+DELAY 300
+STRING echo alias neofetch='hyfetch'>>~/.bashrc
+ENTER
+delay 300
+STRING echo neofetch>>bashrc
+ENTER
+DELAY 500
+STRING clear && hyfetch
+ENTER
+DELAY 500
