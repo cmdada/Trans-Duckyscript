@@ -1,5 +1,5 @@
 # Trans-Duckyscript
-A collection of duckyscript programs to install and run hyfetch on a target machine
+A collection of duckyscript programs to install and run hyfetch on a target machine (imo the chromeos dev mode script is the best)
 
 # Instructions:
  - Have a capable Usb Rubber Ducky or equivalent (I use a pi pico)
